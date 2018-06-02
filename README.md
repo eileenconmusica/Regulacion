@@ -1,0 +1,2 @@
+# Regulacion
+Regulación automática
